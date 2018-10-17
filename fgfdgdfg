@@ -1,6 +1,0 @@
-@font-face{
-    font-family:ng;
-    src:url('fonts/Binggrae.ttf');
-    src:local(※), url('fonts/Binggrae.ttf') format('ttf')
-}
-body{font-family:"Binggrae", ng;}
